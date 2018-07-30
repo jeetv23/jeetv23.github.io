@@ -1,0 +1,37 @@
+h2 {
+
+	font-family: lucida bright;
+	font-size: 25px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	border-bottom: 3px solid black;
+
+}
+
+body {
+
+	background-color: #FF8900;
+	margin: 0;
+}
+
+.container2 {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+
+	height: 250px;
+	width: 400px;
+	margin: 30px;
+	transition: all 2s;
+}
+
+a {
+
+	display: inline;
+	color: white;
+}

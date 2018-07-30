@@ -1,0 +1,31 @@
+body {
+
+	background-image: url(bgimg.jpg);
+	background-size: cover;
+}
+
+h1 {
+
+	text-align: center;
+	color: yellow;
+	border-bottom: 3px solid #D1C800;
+}
+
+
+a {
+
+	display: inline;
+	color: #FFF700;
+	border: 2px dashed #B3A200;
+	margin-bottom: 30px;
+	margin-top: 10px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+p {
+
+	color: #00CE00;
+	font-family: monospace;
+	font-size: 20px;
+}
